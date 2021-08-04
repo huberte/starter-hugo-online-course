@@ -7,6 +7,10 @@ main:
   - name: Home
     url: '/'
     weight: 10
+  - name : Diapo
+    url: '/slides/nsi'
+    weight: 15
+    identifier: slides
   - name: Courses
     url: '/course'
     weight: 20
