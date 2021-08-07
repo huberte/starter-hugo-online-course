@@ -27,7 +27,7 @@ The demand for skilled data science practitioners is rapidly growing. Lorem ipsu
 
 {{< list_children >}}
 
-{{% children page="slides" description="true" %}}
+{{<children page="slides" description="true" >}}
 
 ## Meet your instructor
 
