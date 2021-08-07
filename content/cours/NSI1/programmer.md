@@ -1,5 +1,5 @@
 ---
-title: Chapitre 1 : Commencer à programmr
+title: Commencer à programmr
 summary: ... des langages dits « de haut niveau »
 authors: []
 tags: []
