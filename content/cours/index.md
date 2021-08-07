@@ -1,8 +1,8 @@
 ---
-title: 📊 Learn Data Science
-linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
-date: '2021-01-24'
+title: 🖥️ NSI - Cours de 1ère
+linkTitle: NSI-1ere
+summary: Les cours de NSI en première
+date: '2021-06-24'
 type: book
 ---
 
