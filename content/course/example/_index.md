@@ -1,8 +1,8 @@
 ---
-title: 📊 Learn Data Science
-linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
-date: '2021-01-24'
+title: 🖥️ NSI - Cours de 1ère
+linkTitle: NSI-1ere
+summary: Les cours de NSI en première
+date: '2021-06-24'
 type: book
 ---
 
@@ -10,11 +10,14 @@ type: book
 
 {{< toc hide_on="xl" >}}
 
-## What you will learn
+## Ce que vous allez apprendre
 
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+- {{<hl>}}Les données{{</hl>}}, qui représentent sous une forme numérique unifiée des informations très diverses
+- les algorithmes, qui spécifient de façon abstraite et précise des traitements à effectuer sur les données à partir d’opérations élémentaires ;  
+- les langages, qui permettent de traduire les algorithmes abstraits en programmes textuels ou graphiques de façon à ce qu’ils soient exécutables par les machines ; 
+- les machines, et leurs systèmes d’exploitation, qui permettent d’exécuter des programmes en enchaînant un grand nombre d’instructions simples, assurent la persistance des données par leur stockage et gèrent les communications. Y sont inclus les objets connectés et les réseaux. 
+- les interfaces qui permettent la communication, la collecte des données et la commande des systèmes. 
+
 
 ## Program overview
 
