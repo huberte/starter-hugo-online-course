@@ -7,21 +7,10 @@ main:
   - name: Home
     url: '/'
     weight: 10
-  - name : Diapo
-    url: '/slides/nsi'
-    weight: 15
-    identifier: slides
-  - name: Courses
-    url: '/course'
+  - name: Cours
+    url: '/cours'
     weight: 20
-    identifier: courses
-  - name: Data science
-    url: '/course/example/'
-    weight: 10
-    parent: courses
-  - name: Blog
-    url: '/post'
-    weight: 30
+    identifier: cours
   - name: Contact
     url: '/contact'
     weight: 60
